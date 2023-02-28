@@ -1,0 +1,132 @@
+body 
+{
+    background-color:#fff ;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+    line-height: 1.75;
+    
+    margin: 0;
+}
+hr{
+    border: dotted;
+    border-bottom: none;
+}
+p
+{
+    line-height: 1.75;
+}
+h1{
+     margin: 50px auto 0 auto;
+     font-family: 'Sacramento', cursive;
+     font-size: 80px;
+     line-height: 1.2;
+     color: #45b29a;
+     
+}
+h2
+{
+    
+    color: #45b29a;
+     font-weight: normal;
+    line-height: 1;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.land
+{
+    margin-top: 160px;
+    
+    
+}
+.user
+{
+    width:100px;
+    height:100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.upper
+{
+    background-color: #e0ebe8;
+    padding-top: 100px;
+    position:relative;
+    
+
+}
+.middle
+{
+ 
+margin: 80px 0;
+}
+
+span{
+    text-decoration: underline;
+}
+.bottom
+{
+    
+
+}
+.upper-c
+{
+    position:relative;
+    left:400px;
+    top:80px;
+}
+.introo
+{
+    width:25%;
+    margin: 0 auto 0 auto;
+    margin-bottom: 20px;
+    
+}
+.what
+{
+    font-weight: 800;
+    margin-top: 100px;
+    font-size: 40px;
+}
+.hi
+{
+    font-weight: 700;
+    font-size: 30px;
+}
+.bottom-c
+{
+    position:relative;
+    left: 20px;
+    bottom: 450px;;
+}
+.web
+{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-left: 30px;
+}
+.coding
+{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 30px;
+   
+}
+.skill-row
+{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    
+}
+
+
+
